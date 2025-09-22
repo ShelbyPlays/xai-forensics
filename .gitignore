@@ -1,11 +1,7 @@
 # Python
 __pycache__/
-*.pyc
 .venv/
-# Data & artifacts
 data/
 models/
 reports/figures/
 *.parquet
-# OS/editor
-.DS_Store
